@@ -1,5 +1,5 @@
 import { Room } from "./room";
-import { Courtyard } from "./rooms/Courtyard";
+import { Courtyard } from "./rooms/courtyard";
 import { Breezeway } from "./rooms/breezeway";
 import { StaffRoom } from "./rooms/staffroom";
 import { StepDown } from "./rooms/stepdown";
